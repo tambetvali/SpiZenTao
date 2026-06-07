@@ -247,3 +247,4 @@ Become a Master of Magic!
 # The end: SpiZenTao
 In the following part, an AI will do it's work.
 ----------------------------------------------------------------------------------------------
+
