@@ -34,6 +34,8 @@ Laegna is *recognized*.
 
 ---
 
+![Part 1 — The Pulse Beneath Everything](Images/Image_Part1_Pulse.png)
+
 ## 🌬️ 1. The Fourfold Pulse  
 ### I — O — A — E  
 Everything begins with the pulse.
