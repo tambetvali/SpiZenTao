@@ -34,7 +34,7 @@ Laegna is *recognized*.
 
 ---
 
-![Part 1 — The Pulse Beneath Everything](Images/Image_Part1_Pulse.png)
+![Part 1 — The Pulse Beneath Everything](Images/Image_Part1_Pulse.jpg)
 
 ## 🌬️ 1. The Fourfold Pulse  
 ### I — O — A — E  
@@ -74,6 +74,8 @@ Laegna **names** it.
 
 ---
 
+![Part 2 — Zen (Samurai & Monk Modes)](Images/Image_Part2_Zen.jpg)
+
 ## 🧘 2. SpiZenTao — The Body of Laegna  
 SpiZenTao is the physical expression of the pulse.
 
@@ -108,6 +110,8 @@ Laegna describes it.
 
 ---
 
+![Part 3 — Tao & SpiBody 2](Images/Image_Part3_TaoBody.jpg)
+
 ## 🔥 3. The Spiral of Meaning  
 Laegna does not move linearly.  
 It spirals.
@@ -138,6 +142,8 @@ SpiZenTao is the embodiment of this spiral.
 Spireason is the world built from this spiral.
 
 ---
+
+![Part 4 — Growth Through Pain & Wear](Images/Image_Part4_GrowthPain.jpg)
 
 ## ♾️ 4. Infinity as a Daily Experience  
 Infinity is not a number.  
@@ -172,6 +178,8 @@ Infinity is not far away.
 Infinity is **how you already function**.
 
 ---
+
+![Part 5 — Holistic Body Maps](Images/Image_Part5_HolisticMaps.jpg)
 
 ## 🌌 5. Spireason — The World That Forms Around the Pulse  
 When you start thinking in Laegna,  
@@ -208,6 +216,8 @@ Laegna is the grammar of this world.
 SpiZenTao is the way to move inside it.
 
 ---
+
+![Part 6 — Karmic Law (R & T)](Images/Image_Part6_KarmicLaw.jpg)
 
 ## 🧩 6. Laegna Numbers as States of Being  
 A Laegna “number” is not a quantity.  
@@ -246,6 +256,8 @@ Numbers are not symbols.
 Numbers are **movements**.
 
 ---
+
+![Part 7 — Reincarnation & Identity](Images/Image_Part7_Reincarnation.jpg)
 
 ## 🌱 7. The Living Logic  
 Laegna is not a theory.  
