@@ -9,9 +9,9 @@ User can write their own image description here.
 ## Position
 Place this image before the section “🧘 Zen: Preface for SpiBody 2 and Principles of Material Magic 2”, approximately after the introductory paragraph of the manual.
 
-\\\md
+```md
 ![Part 1 — The Pulse Beneath Everything](Images/Image_Part1_Pulse.jpg)
-\\\
+```
 
 ## Short generation prompt
 A symbolic, abstract visualization of the fourfold pulse I/O/A/E as a breathing, living field.
