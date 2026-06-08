@@ -1,5 +1,5 @@
 # Image: Part 2 — Zen (Samurai & Monk Modes)
-[Image_Part2_Zen.png](Image_Part2_Zen.jpg)
+[Image_Part2_Zen.jpg](Image_Part2_Zen.jpg)
 
 This image expresses the dual Zen modes: the sharp, focused “Samurai Mode” and the soft, dissolving “Monk Mode.” It should show attention as a blade and attention as a cloud — two aspects of the same mind, one contracting into a point, the other releasing into infinity.
 
