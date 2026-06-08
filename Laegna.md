@@ -280,6 +280,8 @@ It is something you **become**.
 
 ---
 
+![Bonus — Law of Magic](Images/Image_Bonus_Magic.jpg)
+
 ## 🌈 8. Closing  
 This document is a doorway.  
 Not an explanation.  
