@@ -248,3 +248,5 @@ Become a Master of Magic!
 In the following part, an AI will do it's work.
 ----------------------------------------------------------------------------------------------
 
+- [AI addons might add details!](https://github.com/tambetvali/SpiZenTao/blob/main/Laegna.md) - CLICK TO READ!
+- [Nuts and Bolts of math-rich results](https://github.com/tambetvali/SpiZenTao/tree/main/NutsAndBolts) - CLICK TO THINK AND STUDY!
