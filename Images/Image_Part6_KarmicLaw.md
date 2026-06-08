@@ -1,5 +1,5 @@
 # Image: Part 6 — Karmic Law (R & T)
-[Image_Part6_KarmicLaw.png](Image_Part6_KarmicLaw.png)
+[Image_Part6_KarmicLaw.jpg](Image_Part6_KarmicLaw.jpg)
 
 This image represents the abstract karmic system of R (long-term, spiritual, yang) and T (short-term, material, yin), with Gi and Gr as gravitational attractors of intention and result. It should feel like a dynamic balance of two forces shaping a path.
 
@@ -9,9 +9,9 @@ User can write their own image description here.
 ## Position
 Place this image before the subsection “⚖️ Karmic Law”.
 
-\`\`\`md
-![Part 6 — Karmic Law (R & T)](Images/Image_Part6_KarmicLaw.png)
-\`\`\`
+```md
+![Part 6 — Karmic Law (R & T)](Images/Image_Part6_KarmicLaw.jpg)
+```
 
 ## Short generation prompt
 Abstract karmic system of R/T with Gi→Gr transformation.
