@@ -5,7 +5,7 @@ It preserves the original structure and artistic titles while deepening the theo
 
 ---
 
-![Part 1 — The Pulse Beneath Everything](Images/Image_Part1_Pulse.jpg)
+![Part 1 — The Pulse Beneath Everything](../Images/Image_Part1_Pulse.jpg)
 
 # 🧘 Zen
 
@@ -14,7 +14,7 @@ Its operational triad is **Z**, **X**, **Y** — three modes of the same continu
 
 ---
 
-![Part 2 — Zen (Samurai & Monk Modes)](Images/Image_Part2_Zen.jpg)
+![Part 2 — Zen (Samurai & Monk Modes)](../Images/Image_Part2_Zen.jpg)
 
 ## 🔪 Z. Prepare — Focus Your Attention (Samurai Mode)
 
@@ -92,7 +92,7 @@ Zen is **evolution of attention**.
 
 ---
 
-![Part 3 — Tao & SpiBody 2](Images/Image_Part3_TaoBody.jpg)
+![Part 3 — Tao & SpiBody 2](../Images/Image_Part3_TaoBody.jpg)
 
 # 🐉 Tao — SpiBody 2
 
@@ -109,7 +109,7 @@ Together they form the Tao of SpiBody.
 
 ---
 
-![Part 4 — Growth Through Pain & Wear](Images/Image_Part4_GrowthPain.jpg)
+![Part 4 — Growth Through Pain & Wear](../Images/Image_Part4_GrowthPain.jpg)
 
 ## 🔥 Z. Growth Through Pain & Wear
 
@@ -165,7 +165,7 @@ This is the foundation of both everyday life and spiritual progression.
 
 ---
 
-![Part 5 — Holistic Body Maps](Images/Image_Part5_HolisticMaps.jpg)
+![Part 5 — Holistic Body Maps](../Images/Image_Part5_HolisticMaps.jpg)
 
 ## 🌈 Y. Holistic, Balanced View
 
@@ -207,7 +207,7 @@ T_{\text{final}} \approx 0.36625
 $$
 
 This is **multiparameter optimization**, aligned with  
-**[Laegna Logecs](ca://s?q=Explain_Laegna_Logecs)**.
+**[Laegna Logecs](http://spireason.neocities.org/)**.
 
 Y‑mode also means **peaking**:
 - Rare intense sessions  
@@ -225,7 +225,7 @@ a unifying prefix for cognition, evolution, and inner mechanics.
 
 ---
 
-![Part 6 — Karmic Law (R & T)](Images/Image_Part6_KarmicLaw.jpg)
+![Part 6 — Karmic Law (R & T)](../Images/Image_Part6_KarmicLaw.jpg)
 
 # ⚖️ Karmic Law
 
@@ -304,7 +304,7 @@ It cannot be resolved by body alone.
 
 ---
 
-![Part 7 — Reincarnation & Identity](Images/Image_Part7_Reincarnation.jpg)
+![Part 7 — Reincarnation & Identity](../Images/Image_Part7_Reincarnation.jpg)
 
 # 🌳 Law of Reincarnation
 
@@ -387,7 +387,7 @@ Grow intuition.
 
 ---
 
-![Bonus — Law of Magic](Images/Image_Bonus_Magic.jpg)
+![Bonus — Law of Magic](../Images/Image_Bonus_Magic.jpg)
 
 # ✨ Law of Magic — Principles of Material Magic 2
 
