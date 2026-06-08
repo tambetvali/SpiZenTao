@@ -263,7 +263,7 @@ If $G_i$ was a nightmare, $G_r$ dissolves it.
 
 ---
 
-# 🧬 Lae of Identity
+# 🧬 Law of Identity
 
 Identity is embodied:
 
