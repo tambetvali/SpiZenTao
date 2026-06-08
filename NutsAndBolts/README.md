@@ -5,12 +5,16 @@ It preserves the original structure and artistic titles while deepening the theo
 
 ---
 
+![Part 1 — The Pulse Beneath Everything](Images/Image_Part1_Pulse.jpg)
+
 # 🧘 Zen
 
 Zen is the discipline of **attention**.  
 Its operational triad is **Z**, **X**, **Y** — three modes of the same continuum.
 
 ---
+
+![Part 2 — Zen (Samurai & Monk Modes)](Images/Image_Part2_Zen.jpg)
 
 ## 🔪 Z. Prepare — Focus Your Attention (Samurai Mode)
 
@@ -88,6 +92,8 @@ Zen is **evolution of attention**.
 
 ---
 
+![Part 3 — Tao & SpiBody 2](Images/Image_Part3_TaoBody.jpg)
+
 # 🐉 Tao — SpiBody 2
 
 Intent is the actuator of matter.  
@@ -102,6 +108,8 @@ Focused training = Warrior
 Together they form the Tao of SpiBody.
 
 ---
+
+![Part 4 — Growth Through Pain & Wear](Images/Image_Part4_GrowthPain.jpg)
 
 ## 🔥 Z. Growth Through Pain & Wear
 
@@ -156,6 +164,8 @@ X‑mode:
 This is the foundation of both everyday life and spiritual progression.
 
 ---
+
+![Part 5 — Holistic Body Maps](Images/Image_Part5_HolisticMaps.jpg)
 
 ## 🌈 Y. Holistic, Balanced View
 
@@ -214,6 +224,8 @@ Peaks are good — in moderation.
 a unifying prefix for cognition, evolution, and inner mechanics.
 
 ---
+
+![Part 6 — Karmic Law (R & T)](Images/Image_Part6_KarmicLaw.jpg)
 
 # ⚖️ Karmic Law
 
@@ -291,6 +303,8 @@ $$
 It cannot be resolved by body alone.
 
 ---
+
+![Part 7 — Reincarnation & Identity](Images/Image_Part7_Reincarnation.jpg)
 
 # 🌳 Law of Reincarnation
 
@@ -372,6 +386,8 @@ Study clinical science.
 Grow intuition.
 
 ---
+
+![Bonus — Law of Magic](Images/Image_Bonus_Magic.jpg)
 
 # ✨ Law of Magic — Principles of Material Magic 2
 
