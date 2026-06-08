@@ -1,5 +1,7 @@
 # 🌌🌌 SpiZenTao
 
+See: [Websites.md](Websites.md) for illustration and visualization by Web Generator AI!
+
 This is a manual which serves two purposes:
 - For [SpiBody](https://www.github.com/tambetvali/SpiBody), here is title called ***SpiBody 2*** and covers the holistic, spiritual training.
 - For [SpiReason's](https://spireason.neocitities.org/) articles [Principles of Material Magic](https://spireason.neocitities.org/Principles%20of%20Material%20Magic.pdf) and [Principles of Material Magic](https://spireason.neocitities.org/Principles%20of%20Material%20Magic%20–%20short%20version.pdf) — short version, here is title called ***Principles of Material Magic 2*** — Trivia, which continues the Material Magic series.
