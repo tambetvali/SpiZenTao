@@ -9,9 +9,9 @@ User can write their own image description here.
 ## Position
 Place this image before the section “🐉 Tao: SpiBody 2”.
 
-\`\`\`md
+```md
 ![Part 3 — Tao & SpiBody 2](Images/Image_Part3_TaoBody.jpg)
-\`\`\`
+```
 
 ## Short generation prompt
 Holistic body‑spirit engine: nerves, muscles, bones, intent in one field.
