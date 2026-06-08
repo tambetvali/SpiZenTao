@@ -8,9 +8,13 @@ The primary thing for these 2nd versions is for those, who prefer it short.
 
 ## 🌌 SpiZenTao - spizentao edition 1 in chaper
 
+![Part 1 — The Pulse Beneath Everything](Images/Image_Part1_Pulse.jpg)
+
 ### 🧘 Zen: Preface for SpiBody 2 and Principles of Material Magic 2
 
 To do Zen meditation;
+
+![Part 2 — Zen (Samurai & Monk Modes)](Images/Image_Part2_Zen.jpg)
 
 #### 🔪 Z. Prepare: Focus your Attention
 
@@ -42,6 +46,8 @@ You can have different plans:
 
 Each plan helps somewhere, and also as you see the positive results: not only plans, but your internal strategies reolve complex problems of gains and losses.
 
+![Part 3 — Tao & SpiBody 2](Images/Image_Part3_TaoBody.jpg)
+
 ### 🐉 Tao: SpiBody 2
 
 Train your intent. Intent controls your body - matter. Your whole is infinitesimal, a point in infinite field of spirit: like material, independent particles create body in their infinity, and their infinity of response, so the body and it's mind, when repeated the same way, creates our spiritual, mental framework: we, there, in magic mystery, behave like particles.
@@ -53,6 +59,8 @@ To do Zen on your body, let it gain tension for focus and release it for focusle
 Holistic training means Zen: it's balanced through nerves, muscles and bones. It's balance includes infrequent, non-stressing attention and training on inner organs, with intuitive care or study of safe practice.
 
 Focused training means Warrior: practices which involve strong physical intent, are also practices you do not do often.
+
+![Part 4 — Growth Through Pain & Wear](Images/Image_Part4_GrowthPain.jpg)
 
 #### 🔥 Z: Growth through pain and wear
 
@@ -84,6 +92,8 @@ This is life:
 X also means: doing:
 - It's just slow, relaxed, not forcing too much not even stretching too much.
 - Constant stability to make you tired grows stable long-term batteries which are most useful for both everyday life, and your slow spiritual progression.
+
+![Part 5 — Holistic Body Maps](Images/Image_Part5_HolisticMaps.jpg)
 
 #### 🌈 Y: Holistic, balanced view
 
@@ -118,6 +128,8 @@ Thus: parties and vacations are good.
 Spi was made from Spiritual, utilizing the cold and more scientifically sounding root "psi", such as psi-force: but turning it into natural process based on evolution and other scientific effects.
 
 It is the prefix which unites my work on spiritual basis, and sounds cold like "business" or "science", because tautologies often come without cognition - it's AI or robot mode; it's tautological model mode for real spirituality, which happens as inside cognition, focus, science and letting go.
+
+![Part 6 — Karmic Law (R & T)](Images/Image_Part6_KarmicLaw.jpg)
 
 #### ⚖️ Karmic Law
 
@@ -155,6 +167,8 @@ If it becomes to material body, perhaps it just understands it's the body it car
 Goal based logic resolves such identities rather than causal logic. Your identity is complex mix of your internal, external, born, given etc. complexes, and it's truth value is whether it's real, or an illusion: a clone, easily, can be positioned so that it's clearly an illusion; you might be positioned so that only *you* think the next you is an illusion - in this complex, what is real and what is not, about it all? After all, they would be somebody?
 
 This means: identity is R and T complex like any other thing, you cannot use body alone to resolve it.
+
+![Part 7 — Reincarnation & Identity](Images/Image_Part7_Reincarnation.jpg)
 
 #### 🌳 Law of Reincarnation
 
@@ -211,6 +225,8 @@ Balanced training of 100% of your body would:
 This is nerves, muscles, bones, organs, including things you don't talk about: each is important for it's own purpose.
 
 Notice the effects, and notice the clinical science. Evolve intuition of growth - what you did, and what happened; this abstract conception of being health as part of bigger, longer-term and interwined concept is true.
+
+![Bonus — Law of Magic](Images/Image_Bonus_Magic.jpg)
 
 #### ✨ Law of Magic: Principles of Material Magic 2
 
