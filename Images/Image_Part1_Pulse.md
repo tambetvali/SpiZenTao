@@ -1,5 +1,5 @@
 # Image: Part 1 — The Pulse Beneath Everything
-[Image_Part1_Pulse.png](Image_Part1_Pulse.png)
+[Image_Part1_Pulse.png](Image_Part1_Pulse.jpg)
 
 This image represents the fourfold pulse of I/O/A/E as a living field: inward collapse, boundary clarity, directional movement, and radiant expansion, all woven into one breathing geometry. It should feel like the first heartbeat of the entire text — the primordial rhythm beneath Zen, Tao, Spi, and Laegna.
 
@@ -9,9 +9,9 @@ User can write their own image description here.
 ## Position
 Place this image before the section “🧘 Zen: Preface for SpiBody 2 and Principles of Material Magic 2”, approximately after the introductory paragraph of the manual.
 
-\`\`\`md
-![Part 1 — The Pulse Beneath Everything](Images/Image_Part1_Pulse.png)
-\`\`\`
+\\\md
+![Part 1 — The Pulse Beneath Everything](Images/Image_Part1_Pulse.jpg)
+\\\
 
 ## Short generation prompt
 A symbolic, abstract visualization of the fourfold pulse I/O/A/E as a breathing, living field.
