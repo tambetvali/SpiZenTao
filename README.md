@@ -1,4 +1,4 @@
-# SpiZenTao
+# 🌌🌌 SpiZenTao
 
 This is a manual which serves two purposes:
 - For [SpiBody](https://www.github.com/tambetvali/SpiBody), here is title called ***SpiBody 2*** and covers the holistic, spiritual training.
@@ -6,13 +6,13 @@ This is a manual which serves two purposes:
 
 The primary thing for these 2nd versions is for those, who prefer it short.
 
-## SpiZenTao - spizentao edition 1 in chaper
+## 🌌 SpiZenTao - spizentao edition 1 in chaper
 
-### Zen: Preface for SpiBody 2 and Principles of Material Magic 2
+### 🧘 Zen: Preface for SpiBody 2 and Principles of Material Magic 2
 
 To do Zen meditation;
 
-#### Z. Prepare: Focus your Attention
+#### 🔪 Z. Prepare: Focus your Attention
 
 Internal focal point could be breath, single thought or emotion. If you create it, it matters a little of programming: Attention, is to Observe. External focal point is material, such as candle or mandala.
 
@@ -20,7 +20,7 @@ Focus means to have focal point: to conserve Attention into singleton around giv
 
 Call this "Samurai Mode": to focus. We use it as preword for the next chapter: to not think about monkeys, in Zen story, means it's harder to not think.
 
-#### X. Do: Release your Attention
+#### 🌀 X. Do: Release your Attention
 
 Internal focal folder could be balance over your mind, internal cognition and thoughts - while framing it a little inside, you can focus on mental plane. External focal folder is your body or surrounding environment.
 
@@ -33,7 +33,7 @@ Releasing your Attention:
 
 Call it "Monk Mode". Altough each Zen is the same, Samurais talk about first, Monks about second aspect: because to focus is Warrior, to lose focus is Zen.
 
-#### Y. Evolve: Use it constructively
+#### 🌱 Y. Evolve: Use it constructively
 
 You can have different plans:
 - 5 minutes every day, half hours on saturdays
@@ -42,7 +42,7 @@ You can have different plans:
 
 Each plan helps somewhere, and also as you see the positive results: not only plans, but your internal strategies reolve complex problems of gains and losses.
 
-### Tao: SpiBody 2
+### 🐉 Tao: SpiBody 2
 
 Train your intent. Intent controls your body - matter. Your whole is infinitesimal, a point in infinite field of spirit: like material, independent particles create body in their infinity, and their infinity of response, so the body and it's mind, when repeated the same way, creates our spiritual, mental framework: we, there, in magic mystery, behave like particles.
 
@@ -54,7 +54,7 @@ Holistic training means Zen: it's balanced through nerves, muscles and bones. It
 
 Focused training means Warrior: practices which involve strong physical intent, are also practices you do not do often.
 
-#### Z: Growth through pain and wear
+#### 🔥 Z: Growth through pain and wear
 
 Negative aspect of training is to sacrifice:
 - Pain
@@ -69,7 +69,7 @@ Z also means: preparement in this:
   - Based on their position while they can be trainable to various degrees, and this could mean various things; once you have trained new thing somewhere, from zero to something is like billions of percents - this fundamental quality appears everywhere.
   - To start is to create an exponent.
 
-#### X: Stable, balanced tonus
+#### 🌿 X: Stable, balanced tonus
 
 This is gaussian curve:
 - You can do heavy things sometimes, and extremes rarely. This, in training and your life.
@@ -85,7 +85,7 @@ X also means: doing:
 - It's just slow, relaxed, not forcing too much not even stretching too much.
 - Constant stability to make you tired grows stable long-term batteries which are most useful for both everyday life, and your slow spiritual progression.
 
-#### Y: Holistic, balanced view
+#### 🌈 Y: Holistic, balanced view
 
 You should use different holistic maps for your body:
 - Nerve sensation map: topology shows you feel your hands and fingers the most.
@@ -113,13 +113,13 @@ Y also means: peaking.
 
 Thus: parties and vacations are good.
 
-### Spi
+### 🔮 Spi
 
 Spi was made from Spiritual, utilizing the cold and more scientifically sounding root "psi", such as psi-force: but turning it into natural process based on evolution and other scientific effects.
 
 It is the prefix which unites my work on spiritual basis, and sounds cold like "business" or "science", because tautologies often come without cognition - it's AI or robot mode; it's tautological model mode for real spirituality, which happens as inside cognition, focus, science and letting go.
 
-#### Karmic Law
+#### ⚖️ Karmic Law
 
 Karmic Law is empty. This is Tao.
 
@@ -140,7 +140,7 @@ G, as one can see, is complex interplay of these items:
 - If $G_i$ was dream, $G_r$ must be it's resolution.
 - If $G_i$ was a nightmare, $G_r$ must be it gone.
 
-#### Lae of Identity
+#### 🧬 Law of Identity
 
 Have your identity code contained in your body.
 
@@ -156,7 +156,7 @@ Goal based logic resolves such identities rather than causal logic. Your identit
 
 This means: identity is R and T complex like any other thing, you cannot use body alone to resolve it.
 
-#### Law of Reincarnation
+#### 🌳 Law of Reincarnation
 
 Your ego can be your current situation, presentation, identities going to be broken. It can be temporary relations and not respecting a woman or man through all the arc of their lifetime, and Yggdrasil of their ancestry and future, a local hologram cell.
 
@@ -199,7 +199,7 @@ So, write books which persist time: and you are immortal. Just because you are c
 
 This is philosophical by being not data, but method of research: research the "reincarnation".
 
-#### Law of Embodyment
+#### 🧍 Law of Embodyment
 
 100% of your mind is contained in 100% of your body; 100% of your spirit is contained in 100% of your mind, scientifically at least in body - materialism basically means, it's either inside or outside (like reality of your identity or correctness of your thoughts, part of you but meaningfully-spiritually outside, and visibly-materially inside).
 
@@ -212,7 +212,7 @@ This is nerves, muscles, bones, organs, including things you don't talk about: e
 
 Notice the effects, and notice the clinical science. Evolve intuition of growth - what you did, and what happened; this abstract conception of being health as part of bigger, longer-term and interwined concept is true.
 
-#### Law of Magic: Principles of Material Magic 2
+#### ✨ Law of Magic: Principles of Material Magic 2
 
 Ancient magic saw karma as if it was a machine: mind over matter, needed to be strong enough to force. This is yang, and we can see it's gone in newer practices.
 
