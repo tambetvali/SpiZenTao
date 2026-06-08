@@ -66,15 +66,15 @@ Pain can come from initial training, but to get out of pain means training after
 
 Z also means: preparement in this:
 - If you only train parts of your body for complete new experience;
- - Based on their position while they can be trainable to various degrees, and this could mean various things; once you have trained new thing somewhere, from zero to something is like billions of percents - this fundamental quality appears everywhere.
- - To start is to create an exponent.
+  - Based on their position while they can be trainable to various degrees, and this could mean various things; once you have trained new thing somewhere, from zero to something is like billions of percents - this fundamental quality appears everywhere.
+  - To start is to create an exponent.
 
 #### X: Stable, balanced tonus
 
 This is gaussian curve:
 - You can do heavy things sometimes, and extremes rarely. This, in training and your life.
 - You can do long process of shallow, holistic training.
- - Holistic means balanced over nerves, bones and muscles, with gaussian sides of time and shared tension on edges for edge goals, and in middle for middle goals.
+  - Holistic means balanced over nerves, bones and muscles, with gaussian sides of time and shared tension on edges for edge goals, and in middle for middle goals.
 
 This is life:
 - Long, low-pressure training keeps your intent intact; strong effort removes intent.
@@ -90,7 +90,7 @@ X also means: doing:
 You should use different holistic maps for your body:
 - Nerve sensation map: topology shows you feel your hands and fingers the most.
 - Chakra map: each chakra has related biological nerves, muscles, bones and organs.
- - Do not forget hands and legs, because they extend chakra map with mental purpose.
+  - Do not forget hands and legs, because they extend chakra map with mental purpose.
 - Anatomical default: anatomy shows default sizes.
 
 You can see three modes from Kybalion:
@@ -169,7 +169,7 @@ Buddha told you much about personal reincarnation, and this theory is hypothetic
 In this, we can see:
 - Our best games are repeated games
 - Repeated games sync with reality under many thesis, such as holistic evolution
- - Holism of Evolution is to have many facets, unknowns, random harmonies where we seek structure. It yet has structure.
+  - Holism of Evolution is to have many facets, unknowns, random harmonies where we seek structure. It yet has structure.
 - Physically, game which is accelerated as it passes people, will enable more possibility for chains to be real (class, from which you inherit the qualities for every instance); it will be physically possible. This karmic law reasons the games, where you identify with self, which is immortal: write books which resist time, carry your message and solve karmic chains longer than you, and it's the long-term game.
 
 Based on such simplification, arbitrary events in your mind can identify with something which existed or will exist; deeper you can be based on deeper, eternal goals rather than circumstances. Spiritual immortality is the peace you gain in this mode: you do not become immortal, but as you discover your immortality, how to use it and how to connect streams into memories and visions, feel yourself in stream among similar and different; you can see even if mind is just patterns, then patterns are progressing hologram fractals - your actual, felt identity, as it grows in complexity releases the suffering of it's isolation in time, space and identity, or identification through that which is mortal - spiritually, it makes your lives separate items, materially, it makes your days separate items - you need yesterdays you to pass you something, and today's you passes something down to tomorrows you, this is the material reincarnation. Material logic is to remove shadows: to remove that type of fractal non-continuity shadows, is to remove shadows on something real - the goal, which in it's ideal becomes immortality, and in it's basis is not against it. Impossible, but you do not want: a life which scatters the continuous truth.
@@ -227,10 +227,10 @@ We can see how it's balancing the law of karma:
 
 While none of them might move information from future to past:
 - While dead matter is not doing backwards, goal-based reasoning;
- - It has natural side-effect of creating threads which do have,
-  - This happens as fundamental quantum law
-  - This happens as life and it's psychology: our body does some, our brain does a lot of backwards reasoning and goal based thinking.
-  - This happens not in sense of break in material reality, but in sense that the processes as wholes, not their particles, make sense in organized manner, which evolves and learns to predict.
+  - It has natural side-effect of creating threads which do have,
+    - This happens as fundamental quantum law
+    - This happens as life and it's psychology: our body does some, our brain does a lot of backwards reasoning and goal based thinking.
+    - This happens not in sense of break in material reality, but in sense that the processes as wholes, not their particles, make sense in organized manner, which evolves and learns to predict.
 
 Law of Magic, then, is to create higher systems:
 - We do not try to force, but we are winner part of the dynamic system.
