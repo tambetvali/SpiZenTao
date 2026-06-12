@@ -8,7 +8,7 @@ This is a manual which serves two purposes:
 
 The primary thing for these 2nd versions is for those, who prefer it short.
 
-On things you might need in your life is understanding of it as an [Immortalitesimal](https://immortalitesimal.chattee.ai) [app in progress, coming soon] - there is also [GitHub version](https://github.com/tambetvali/Immortalitesimal).
+On things you might need in your life is understanding of it as an [Immortalitesimal](https://laegna-landing.lumi.ing/) - there is also [GitHub version](https://github.com/tambetvali/Immortalitesimal).
 
 ## 🌌 SpiZenTao - spizentao edition 1 in chaper
 
