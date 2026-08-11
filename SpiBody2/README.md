@@ -1,3 +1,5 @@
+![SpiBody 2](../Images/SpiBody%202.png)
+
 This is copy of [SpiBody 2](https://github.com/tambetvali/SpiZenTao/blob/main/README.md#-tao-spibody-2) in the [README.md](https://github.com/tambetvali/SpiZenTao/blob/main/README.md).
 
 Mostly, because I wanted to draw a logo.
